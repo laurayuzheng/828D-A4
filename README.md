@@ -25,7 +25,9 @@ Note: Two different databases are set up by A2 and A3. Feel free to delete after
 ### Tasks
 * Please visit and submit this form [link](https://forms.gle/ySadJQ5k3tKUrZ238) to complete the tasks. There are only 2! A short summary:
 	* Task 1: Free exploration
-	* Task 2: Describe the shift in genre popularity
+	* Task 2: Describe the shift in genre popularity in A2
+	* Task 3: Describe the shift in genre popularity in A3
+	* Upload server-side log file
 * This shouldn't take more than 10 minutes after setup, hopefully. If you took significantly more time, I would like to know in the form :-)
 * If there are any issues/bugs with setting up the visualization, please contact me at lyzheng@umd.edu, I will respond ASAP. 
 
