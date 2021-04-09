@@ -13,7 +13,7 @@ In my study, there are two versions of the project: the unoptimized version (A2)
 
 Now, for both A2 and A3 versions, please do the two steps below to set up both versions. 
 * Set up the database
-	* Edit the database_setup.sql file and replace path of the CSV file loaded to your local path
+	* Edit the database_setup.sql file and replace path of the CSV file loaded to your local path (should be named "anime_augmented.csv" after processing)
 	* Open PSQL terminal
 	* Run "source /path/to/database_setup.sql"
 * Set up the visualization
